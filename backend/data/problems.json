@@ -1,8 +1,8 @@
 [
     {
-      "id": "sum",
+      "id": "Sum",
       "title": "Sum of two numbers",
-      "file": "../problems/sum.go"
+      "file": "../problems/user.go"
     }
   ]
   
