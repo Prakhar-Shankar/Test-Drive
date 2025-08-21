@@ -2,7 +2,7 @@
     {
       "id": "sum",
       "title": "Sum of two numbers",
-      "file": "problems/sum.go"
+      "file": "../problems/sum.go"
     }
   ]
   
